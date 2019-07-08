@@ -9,6 +9,8 @@ import (
 	"os"
 )
 
+//Task # 2
+
 func main() {
 	green := color.RGBA{0, 255, 0, 255}
 	red := color.RGBA{255, 0, 0, 255}
